@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DB
 {
-    internal class Articulo
+    internal class Cliente
     {
     }
 }
